@@ -1,0 +1,50 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f1f4f9;
+    text-align: center;
+}
+
+header {
+    background-color: navy;
+    color: white;
+    padding: 30px;
+}
+
+main {
+    padding: 20px;
+}
+
+.event {
+    background-color: white;
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px #cccccc;
+}
+
+button {
+    background-color: navy;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+#message {
+    color: green;
+    font-weight: bold;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+    padding: 15px;
+}
